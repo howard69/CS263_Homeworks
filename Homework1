@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Example02_Overflow
+{
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            byte number0 = 254;
+            byte x = 1;
+            // 使用(byte)number0 + (byte)x 仍出現同樣的錯誤
+            // 改用先計算完成再一次將結果設定型態後可行
+            byte number1 = (byte)(number0 + x);  // 因為避免小型別跑到大型別，所以前面要加上指定的type
+            byte number2 = (byte)(number1 + x);
+            
+            Console.WriteLine(number0);
+            Console.WriteLine(number1);
+            Console.WriteLine(number2);
+        }
+    }
+}
