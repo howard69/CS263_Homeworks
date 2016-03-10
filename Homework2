@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Example01
+{
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            /* 練習1
+             string name = "Resnick";
+             int number = 1;
+             number = number + 3;
+             Console.WriteLine(name);
+             */
+            Student someone =
+                new Student
+                {
+                    name = "老張",
+                    phone = "resnick1223@gmail.com",
+                    email = "0910123456"
+                };
+            Console.WriteLine(someone.name);
+            Console.WriteLine(someone.phone);
+            Console.WriteLine(someone.email);
+            
+            Student otherone =
+                new Student
+                {
+                    name = "老李",
+                    phone = "Li2011@gmail.com",
+                    email = "0958669786"
+                };
+            Console.WriteLine(otherone.name);
+            Console.WriteLine(otherone.phone);
+            Console.WriteLine(otherone.email);
+        }
+    }
+}
