@@ -1,0 +1,7 @@
+C:\Howard\Box\SmallProgramBox\GuessNumber2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Howard\Box\SmallProgramBox\GuessNumber2\bin\Debug\GuessNumber2.exe
+C:\Howard\Box\SmallProgramBox\GuessNumber2\bin\Debug\GuessNumber2.pdb
+C:\Howard\Box\SmallProgramBox\GuessNumber2\obj\x86\Debug\GuessNumber2.exe
+C:\Howard\Box\SmallProgramBox\GuessNumber2\obj\x86\Debug\GuessNumber2.pdb
+C:\Howard\Box\SmallProgramBox\GuessNumber2\bin\Debug\GuessLibrary.dll
+C:\Howard\Box\SmallProgramBox\GuessNumber2\bin\Debug\GuessLibrary.pdb

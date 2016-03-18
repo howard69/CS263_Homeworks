@@ -1,0 +1,5 @@
+C:\Howard\Box\SmallProgramBox\GuessLibrary\bin\Debug\GuessLibrary.dll
+C:\Howard\Box\SmallProgramBox\GuessLibrary\bin\Debug\GuessLibrary.pdb
+C:\Howard\Box\SmallProgramBox\GuessLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Howard\Box\SmallProgramBox\GuessLibrary\obj\Debug\GuessLibrary.dll
+C:\Howard\Box\SmallProgramBox\GuessLibrary\obj\Debug\GuessLibrary.pdb
