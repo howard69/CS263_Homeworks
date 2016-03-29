@@ -1,0 +1,15 @@
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+D:\2016_C#課程\課後練習\03-25_HomeWork\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\2016_C#課程\課後練習\03-25_HomeWork\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\2016_C#課程\課後練習\03-25_HomeWork\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+D:\2016_C#課程\課後練習\03-25_HomeWork\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\2016_C#課程\課後練習\03-25_HomeWork\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+\\psf\Home\Desktop\03-25_HomeWork\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+\\psf\Home\Desktop\03-25_HomeWork\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+\\psf\Home\Desktop\03-25_HomeWork\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\03-25_HomeWork\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+\\psf\Home\Desktop\03-25_HomeWork\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

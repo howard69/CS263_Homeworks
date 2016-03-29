@@ -1,0 +1,33 @@
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\bin\Debug\Example01.exe.config
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\bin\Debug\Example01.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\bin\Debug\Example01.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\obj\Debug\Example01.Form1.resources
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\obj\Debug\Example01.exe
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\obj\Debug\Example01.pdb
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\bin\Debug\EmployeeLibrary.dll
+D:\Dropbox\工作記錄區\03.系統訓練班\2015 - 263 C# 基礎班\上課錄影與範例\2016-03-25\[CS263]2016-03-25\Example01\bin\Debug\EmployeeLibrary.pdb
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\bin\Debug\Example01.exe.config
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\obj\Debug\Example01.exe
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\obj\Debug\Example01.pdb
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\bin\Debug\Example01.exe
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\bin\Debug\Example01.pdb
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\bin\Debug\EmployeeLibrary.dll
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\bin\Debug\EmployeeLibrary.pdb
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\obj\Debug\Example01.Form1.resources
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\obj\Debug\Example01.Properties.Resources.resources
+D:\2016_C#課程\課後練習\03-25_HomeWork\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\03-25_HomeWork\Example01\bin\Debug\Example01.exe.config
+\\psf\Home\Desktop\03-25_HomeWork\Example01\obj\Debug\Example01.exe
+\\psf\Home\Desktop\03-25_HomeWork\Example01\obj\Debug\Example01.pdb
+\\psf\Home\Desktop\03-25_HomeWork\Example01\bin\Debug\Example01.exe
+\\psf\Home\Desktop\03-25_HomeWork\Example01\bin\Debug\Example01.pdb
+\\psf\Home\Desktop\03-25_HomeWork\Example01\bin\Debug\EmployeeLibrary.dll
+\\psf\Home\Desktop\03-25_HomeWork\Example01\bin\Debug\EmployeeLibrary.pdb
+\\psf\Home\Desktop\03-25_HomeWork\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\03-25_HomeWork\Example01\obj\Debug\Example01.Form1.resources
+\\psf\Home\Desktop\03-25_HomeWork\Example01\obj\Debug\Example01.Properties.Resources.resources
+\\psf\Home\Desktop\03-25_HomeWork\Example01\obj\Debug\Example01.csproj.GenerateResource.Cache
