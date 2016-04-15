@@ -1,0 +1,16 @@
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\bin\Debug\CharLibrary.dll
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\bin\Debug\CharLibrary.pdb
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\obj\Debug\CharLibrary.csprojResolveAssemblyReference.cache
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\obj\Debug\CharLibrary.ChartClient2.resources
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\obj\Debug\CharLibrary.ChartClient1.resources
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\obj\Debug\CharLibrary.csproj.GenerateResource.Cache
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\obj\Debug\CharLibrary.dll
+D:\2016_C#課程\課後練習\TestFunction\CharLibrary\obj\Debug\CharLibrary.pdb
+\\psf\Home\Desktop\ChartRoom\CharLibrary\bin\Debug\CharLibrary.dll
+\\psf\Home\Desktop\ChartRoom\CharLibrary\bin\Debug\CharLibrary.pdb
+\\psf\Home\Desktop\ChartRoom\CharLibrary\obj\Debug\CharLibrary.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\ChartRoom\CharLibrary\obj\Debug\CharLibrary.ChartClient2.resources
+\\psf\Home\Desktop\ChartRoom\CharLibrary\obj\Debug\CharLibrary.ChartClient1.resources
+\\psf\Home\Desktop\ChartRoom\CharLibrary\obj\Debug\CharLibrary.csproj.GenerateResource.Cache
+\\psf\Home\Desktop\ChartRoom\CharLibrary\obj\Debug\CharLibrary.dll
+\\psf\Home\Desktop\ChartRoom\CharLibrary\obj\Debug\CharLibrary.pdb

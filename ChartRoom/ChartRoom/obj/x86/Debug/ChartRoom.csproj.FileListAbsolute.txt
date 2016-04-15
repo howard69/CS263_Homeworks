@@ -1,0 +1,5 @@
+C:\Howard\TestFunction\ChartRoom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Howard\TestFunction\ChartRoom\obj\x86\Debug\ChattingRoom.FormChatClient.resources
+C:\Howard\TestFunction\ChartRoom\obj\x86\Debug\ChartRoom.Properties.Resources.resources
+C:\Howard\TestFunction\ChartRoom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Howard\TestFunction\ChartRoom\obj\x86\Debug\GenerateResource.write.1.tlog
